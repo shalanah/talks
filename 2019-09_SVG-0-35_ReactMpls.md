@@ -14,6 +14,7 @@
 - Covering
   - Hand coding inline SVGs + rad things with them
 - Not covering
+  - Svg files
   - Browser differences
   - Vector graphic softwares (Illustrator, Inkscape etc)
 - MDN Resources
