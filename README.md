@@ -2,6 +2,7 @@
 
 | Date           | Location / Type          | Title |
 |----------------|--------------------------|----------|
+| October 2019 | Twin Cities .NET User Group / Feature        | [SVG 0-35: A code-along](./2019-09_SVG-0-35_Net.md) | 
 | September 2019 | ReactMpls / Feature        | [SVG 0-35: A code-along](./2019-09_SVG-0-35_ReactMpls.md) | 
 | August 2019 | JSMN / Feature | [SVG 0-35: A code-along](./2019-08_SVG-0-35_JSMN.md)         |
 | February 2019 | ReactMpls / Lightning talk | [Spiral Betty](https://docs.google.com/presentation/d/1-kLNUhVkpo2nxZsraMpHcjtfItZTqFkVUC3hmJU1orQ/edit?usp=sharing) |
