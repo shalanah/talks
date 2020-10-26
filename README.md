@@ -2,6 +2,7 @@
 
 | Date           | Location / Type                       | Title                                                                                                                                                                  |
 | -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| October 2020   | JSMN / Feature        | [Kind Cloud](https://jsmn.kindcloud.app)                                                                                                           |
 | June 2020      | WHCC Lunch N' Learn / Feature         | [Intro to React](https://github.com/shalanah/intro-to-react)                                                                                                           |
 | October 2019   | Twin Cities .NET User Group / Feature | [SVG 0-35: A code-along](./2019-10_SVG-0-35_Net.md)                                                                                                                    |
 | September 2019 | ReactMpls / Feature                   | [SVG 0-35: A code-along](./2019-09_SVG-0-35_ReactMpls.md)                                                                                                              |
