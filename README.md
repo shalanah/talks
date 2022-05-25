@@ -2,7 +2,7 @@
 
 | Date           | Location / Type                       | Title                                                                                                                                                                  |
 | -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Upcoming May 2022      | [Open Source North](https://opensourcenorth.com/)         | Svg with me
+| May 2022      | [Open Source North](https://opensourcenorth.com/)         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
 | October 2020   | JSMN / Feature        | Kind Cloud  • [Deck](https://jsmn.kindcloud.app) • [Video](https://www.youtube.com/watch?v=KEWTcc4kZdo&t=994s)                                                                                                    |
 | June 2020      | WHCC Lunch N' Learn / Feature         | Intro to React • [Repo](https://github.com/shalanah/intro-to-react)                                                                                                           |
 | October 2019   | Twin Cities .NET User Group / Feature | SVG 0-35: A code-along • [Outline](./2019-10_SVG-0-35_Net.md)                                                                                                                    |
