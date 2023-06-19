@@ -2,8 +2,8 @@
 
 | Date           | Location / Type                       | Title                                                                                                                                                                  |
 | -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| June 2023      | [Scanifly](https://scanifly.com/) Lunch N' Learn         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
-| November 2022      | [Scanifly](https://scanifly.com/) Lunch N' Learn         | CSS Methodologies + Styled-components • [Deck](https://docs.google.com/presentation/d/1YqK03Y0LKiYEUtsC2c0nsLRDqDT8J-s3WbL70giKBQ0/edit?usp=sharing)
+| June 2023      | [Scanifly](https://scanifly.com/) Engineering Monthly         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
+| November 2022      | [Scanifly](https://scanifly.com/) Engineering Monthly        | CSS Methodologies + Styled-components • [Deck](https://docs.google.com/presentation/d/1YqK03Y0LKiYEUtsC2c0nsLRDqDT8J-s3WbL70giKBQ0/edit?usp=sharing)
 | May 2022      | [Open Source North](https://opensourcenorth.com/)         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
 | October 2020   | [JSMN](https://javascriptmn.com/)       | Kind Cloud  • [Deck](https://jsmn.kindcloud.app) • [Video](https://www.youtube.com/watch?v=KEWTcc4kZdo&t=994s)                                                                                                    |
 | June 2020      | [WHCC](https://www.whcc.com/) Lunch N' Learn         | Intro to React • [Repo](https://github.com/shalanah/intro-to-react)                                                                                                           |
