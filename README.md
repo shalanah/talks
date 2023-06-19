@@ -2,6 +2,7 @@
 
 | Date           | Location / Type                       | Title                                                                                                                                                                  |
 | -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| June 2023      | [Scanifly](https://scanifly.com/) Lunch N' Learn         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
 | November 2022      | [Scanifly](https://scanifly.com/) Lunch N' Learn         | CSS Methodologies + Styled-components
 | May 2022      | [Open Source North](https://opensourcenorth.com/)         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
 | October 2020   | [JSMN](https://javascriptmn.com/)       | Kind Cloud  • [Deck](https://jsmn.kindcloud.app) • [Video](https://www.youtube.com/watch?v=KEWTcc4kZdo&t=994s)                                                                                                    |
