@@ -2,6 +2,7 @@
 
 | Date           | Location / Type                       | Title                                                                                                                                                                  |
 | -------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Feb 2024       | MSP Mobile Talks                      | Upcoming: Solving the In-App Escape Room: A Developer's Challenge
 | June 2023      | [Scanifly](https://scanifly.com/) Engineering Monthly         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
 | November 2022      | [Scanifly](https://scanifly.com/) Engineering Monthly        | CSS Methodologies + Styled-components • [Deck](https://docs.google.com/presentation/d/1YqK03Y0LKiYEUtsC2c0nsLRDqDT8J-s3WbL70giKBQ0/edit?usp=sharing)
 | May 2022      | [Open Source North](https://opensourcenorth.com/)         | Svg with me • [Deck](https://github.com/shalanah/svgwithme-osn)
