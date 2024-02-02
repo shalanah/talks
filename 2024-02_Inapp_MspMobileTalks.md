@@ -2,8 +2,6 @@
 
 # Solving the In-App Escape Room
 
-Shalanah Dawson 📍 <a target="_blank" href="https://github.com/shalanah">Github</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a href="https://github.com/shalanah/talks">Talks</a>
-
 - [Google Slides](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
 - [Inapp Test Site](tbd)
@@ -14,6 +12,13 @@ Shalanah Dawson 📍 <a target="_blank" href="https://github.com/shalanah">Githu
 - [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection
 - [Bowser](https://github.com/lancedikson/bowser) - Platform detection
 - [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, but good parsing of user agent strings
+
+### Shalanah Dawson
+
+- <a target="_blank" href="https://github.com/shalanah">Github</a>
+- <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>
+- <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>
+- <a href="https://codepen.io/shalanah">Codepen</a><a href="https://github.com/shalanah/talks">Talks</a>
 
 ### Sources
 
