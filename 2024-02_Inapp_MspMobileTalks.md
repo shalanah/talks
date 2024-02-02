@@ -8,7 +8,7 @@
 
 ### Detection Tech
 
-- [Eruda](https://github.com/liriliri/eruda) - A mobile console especially helpful in in-app testing
+- [Eruda](https://github.com/liriliri/eruda) - A mobile console helpful for in-app testing
 - [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection
 - [Bowser](https://github.com/lancedikson/bowser) - Platform detection
 - [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, good parsing user agent strings
