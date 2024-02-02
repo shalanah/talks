@@ -1,3 +1,5 @@
+<img width="1032" alt="Screenshot 2024-02-02 at 3 19 51 PM" src="https://github.com/shalanah/talks/assets/14183660/1aaee877-369b-49d0-a210-40d9be1ffde4">
+
 # Solving the In-App Escape Room
 
 Shalanah Dawson 📍 <a target="_blank" href="https://github.com/shalanah">Github</a>, <a target="_blank" href="https://linkedin.com/in/shalanah">LinkedIn</a>, <a target="_blank" href="https://twitter.com/shalanahfaith">Twitter</a>, <a href="https://codepen.io/shalanah">Codepen</a>, <a href="https://github.com/shalanah/talks">Talks</a>
