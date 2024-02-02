@@ -4,8 +4,16 @@ Shalanah Dawson 📍 <a target="_blank" href="https://github.com/shalanah">Githu
 
 - [Google Slides](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
+- [Inapp Test Site](tbd)
 
-## Sources
+### Detection Tech
+
+- [Eruda](https://github.com/liriliri/eruda) - A mobile console you can use while debugging especially helpful in in-app testing
+- [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection
+- [Bowser](https://github.com/lancedikson/bowser) - Platform detection
+- [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, but good parsing of user agent strings
+
+### Sources
 
 - [Github Felquis: Url Schemes (iOS)](https://gist.github.com/felquis/a08ee196747f71689dcb)
 - [SO: How to open mobile chrome browser with javascript or html](https://stackoverflow.com/questions/39602334/how-to-open-mobile-chrome-browser-with-javascript-or-html/70066226#70066226)
