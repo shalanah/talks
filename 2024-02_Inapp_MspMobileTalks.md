@@ -1,4 +1,4 @@
-<img width="1032" alt="Screenshot 2024-02-02 at 3 19 51 PM" src="https://github.com/shalanah/talks/assets/14183660/1aaee877-369b-49d0-a210-40d9be1ffde4">
+<img width="1032" alt="Solving the In-App Escape Room" src="https://github.com/shalanah/talks/assets/14183660/1aaee877-369b-49d0-a210-40d9be1ffde4">
 
 # Solving the In-App Escape Room
 
