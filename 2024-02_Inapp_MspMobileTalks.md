@@ -1,7 +1,5 @@
 <img width="1032" alt="Solving the In-App Escape Room" src="https://github.com/shalanah/talks/assets/14183660/1aaee877-369b-49d0-a210-40d9be1ffde4">
 
-# Solving the In-App Escape Room
-
 - [Slides](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
 - [Inapp Test Site](tbd)
