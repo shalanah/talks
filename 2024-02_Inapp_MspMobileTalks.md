@@ -4,12 +4,12 @@
 
 - [Slides](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
-- [Inapp Test Site](tbd)
+- [Inapp Debugger]([tbd](https://github.com/shalanah/inapp-debugger))
 
 ### Detection Tech
 
 - [Eruda](https://github.com/liriliri/eruda) - A mobile console helpful for in-app testing
-- [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection
+- [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection use `"github:shalanah/detect-inapp#shalanah-build"` for now big Android Chrome bug at the moment in `detect-inapp`
 - [Bowser](https://github.com/lancedikson/bowser) - Platform detection
 - [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, good parsing user agent strings
 
