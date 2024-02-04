@@ -4,7 +4,7 @@
 
 - [Slides](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
-- [Inapp Debugger]([tbd](https://github.com/shalanah/inapp-debugger))
+- [Inapp Debugger](https://github.com/shalanah/inapp-debugger)
 
 ### Detection Tech
 
