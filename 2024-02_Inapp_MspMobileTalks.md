@@ -11,11 +11,11 @@
 - [Eruda](https://github.com/liriliri/eruda) - A mobile console helpful for in-app testing
 - [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection use in package.json `"detect-inapp": "github:shalanah/detect-inapp#shalanah-build"` for now, Android Chrome bug at the moment in `detect-inapp`
 - [Bowser](https://github.com/lancedikson/bowser) - Platform detection
+- [Github Inapp Debugger](https://github.com/shalanah/inapp-debugger)
 - [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, good parsing user agent strings
 
 ### Inapp Sources
 
-- [Github Inapp Debugger](https://github.com/shalanah/inapp-debugger)
 - [Github Url Schemes (iOS)](https://gist.github.com/felquis/a08ee196747f71689dcb)
 - [Reddit: Figured out Safari url scheme](https://www.reddit.com/r/iOSProgramming/comments/tpuowz/figured_out_safari_url_scheme/)
 - [SO: How to open mobile chrome browser with javascript or html](https://stackoverflow.com/questions/39602334/how-to-open-mobile-chrome-browser-with-javascript-or-html/70066226#70066226)
