@@ -15,7 +15,7 @@
 
 ### Inapp Sources
 
-- [Github Inapp Debugger](https://](https://github.com/shalanah/inapp-debugger)
+- [Github Inapp Debugger](https://github.com/shalanah/inapp-debugger)
 - [Github Url Schemes (iOS)](https://gist.github.com/felquis/a08ee196747f71689dcb)
 - [Reddit: Figured out Safari url scheme](https://www.reddit.com/r/iOSProgramming/comments/tpuowz/figured_out_safari_url_scheme/)
 - [SO: How to open mobile chrome browser with javascript or html](https://stackoverflow.com/questions/39602334/how-to-open-mobile-chrome-browser-with-javascript-or-html/70066226#70066226)
