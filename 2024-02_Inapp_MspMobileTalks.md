@@ -9,7 +9,7 @@
 ### Detection Tech
 
 - [Eruda](https://github.com/liriliri/eruda) - A mobile console helpful for in-app testing
-- [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection use `"detect-inapp": "github:shalanah/detect-inapp#shalanah-build"` for now, Android Chrome bug at the moment in `detect-inapp`
+- [Detect Inapp](https://github.com/f2etw/detect-inapp) - In-app detection use in package.json `"detect-inapp": "github:shalanah/detect-inapp#shalanah-build"` for now, Android Chrome bug at the moment in `detect-inapp`
 - [Bowser](https://github.com/lancedikson/bowser) - Platform detection
 - [What Is My Browser](https://explore.whatismybrowser.com/useragents/parse/) - Ad ridden site, good parsing user agent strings
 
