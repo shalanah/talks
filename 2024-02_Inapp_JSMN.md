@@ -3,6 +3,7 @@
 ### Talk
 
 - [Slides](https://docs.google.com/presentation/d/164ccPOlj4UCtv7avvnwv_2jJ2utPGIEdXfFaAs6AGvM/edit?usp=sharing)
+- [Video recording](https://www.youtube.com/watch?v=rI2sOQ9sAzw)
 - [Dev.to Article](https://dev.to/shalanahfaith/stuck-in-web-view-2jn4)
 - [Inapp Debugger](https://github.com/shalanah/inapp-debugger)
 
