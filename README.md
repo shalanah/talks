@@ -2,6 +2,7 @@
 
 | Date           | Location / Type                                              | Title                                                                                                                                                                                                                                    |
 | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2025 May       | [Minnebar 19](https://sessions.minnestar.org/sessions/1740)  | Radical Sabbatical |
 | 2024 Dec       | [JSMN](https://www.meetup.com/javascriptmn/)                 | Wintery Secret Side Project |
 | 2024 Feb       | [JSMN](https://www.meetup.com/javascriptmn/)                 | Solving the In-App Escape Room • [Deck](https://docs.google.com/presentation/d/164ccPOlj4UCtv7avvnwv_2jJ2utPGIEdXfFaAs6AGvM/edit?usp=sharing) • [Links](https://github.com/shalanah/talks/blob/master/2024-02_Inapp_JSMN.md) • [Video](https://www.youtube.com/watch?v=rI2sOQ9sAzw) |
 | 2024 Feb       | [MSP Mobile Talks](https://www.meetup.com/msp-mobile-talks/) | Solving the In-App Escape Room • [Deck](https://docs.google.com/presentation/d/1yZehD-vV_EJGyE3WBSfoEVgGf39kY0iR4qkMODHE2eE/edit?usp=sharing) • [Links](https://github.com/shalanah/talks/blob/master/2024-02_Inapp_MspMobileTalks.md)   |
