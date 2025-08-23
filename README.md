@@ -2,7 +2,7 @@
 
 | Date           | Location / Type                                              | Title                                                                                                                                                                                                                                    |
 | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025 Aug       | [Livefront](https://livefront.com) Monthly Web Summit   | Storybook 9 |
+| 2025 Aug       | [Livefront](https://livefront.com) Monthly Web Summit   | Lightning talk: Storybook 9 |
 | 2025 May       | [Minnebar 19](https://sessions.minnestar.org/sessions/1740)  | Radical Sabbatical • [Video](https://www.youtube.com/watch?v=3ZeXVYgdAq4) |
 | 2025 Apr       | [Livefront](https://livefront.com) Monthly Web Summit        | Lightning talk: Using Google Apps Scripts to automate email replies           |
 | 2024 Dec       | [JSMN](https://www.meetup.com/javascriptmn/)                 | Wintery Secret Side Project • [Deck](https://docs.google.com/presentation/d/1NFBN02HJFghHxCcCvmbxu2vj4ZfRxlNQCkPv7uso3hM/edit?usp=sharing) |
