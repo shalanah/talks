@@ -2,7 +2,7 @@
 
 | Date           | Location / Type                                              | Title                                                                                                                                                                                                                                    |
 | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2025 Oct       | [Minnebar](https://minnestar.org/minnedemo) Minnedemo41   | Spiral Betty |
+| 2025 Oct       | [Minnedemo 41](https://minnestar.org/minnedemo)    | Spiral Betty |
 | 2025 Sept       | [Livefront](https://livefront.com) Weekly Web Mob   | SVGR |
 | 2025 Aug       | [Livefront](https://livefront.com) Monthly Web Summit   | Storybook 9 |
 | 2025 May       | [Minnebar 19](https://sessions.minnestar.org/sessions/1740)  | Radical Sabbatical • [Video](https://www.youtube.com/watch?v=3ZeXVYgdAq4) |
